@@ -1,0 +1,6 @@
+[submodule "JohnTheRipper"]
+	path = JohnTheRipper
+	url = https://github.com/magnumripper/JohnTheRipper.git
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/SecureAuthCorp/impacket
