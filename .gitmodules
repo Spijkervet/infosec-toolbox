@@ -7,3 +7,9 @@
 [submodule "SecLists"]
 	path = SecLists
 	url = https://github.com/danielmiessler/SecLists.git
+[submodule "EggShell"]
+	path = EggShell
+	url = https://github.com/neoneggplant/EggShell.git
+[submodule "Empire"]
+	path = Empire
+	url = https://github.com/EmpireProject/Empire.git
